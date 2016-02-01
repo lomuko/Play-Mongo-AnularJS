@@ -1,4 +1,3 @@
-import java.net.UnknownHostException;
 import org.mongodb.morphia.Morphia;
 import com.mongodb.MongoClient;
 import controllers.MorphiaObject;
